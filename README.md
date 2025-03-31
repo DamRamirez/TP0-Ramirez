@@ -6,3 +6,4 @@
 - Me encanta ver pelis, si tendría que definir mi película favorita seria Volver al Futuro y la última película que me gusto fue Flow.
 - Trato de leer y jugar un poco cuando puedo pero se hace difícil mantener un equilibrio.
 ___
+!(https://github.com/DamRamirez/TP0-Ramirez/blob/main/IMG_20250121_123101.jpg)
